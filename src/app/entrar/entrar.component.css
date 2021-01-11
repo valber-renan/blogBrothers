@@ -7,3 +7,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.btn{
+    color: white;
+    background-color: #6959CD;
+}
+
+.btn:hover{
+    background-color: #483D8B;
+}
